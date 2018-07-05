@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="taglibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../taglibs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

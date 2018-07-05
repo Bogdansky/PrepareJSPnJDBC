@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PrepareJSPnJDBC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrepareJSPnJDBC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PrepareJSPnJDBC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PrepareJSPnJDBC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0" />
+          <element id="library" level="project" name="taglibs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
